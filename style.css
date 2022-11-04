@@ -16,12 +16,14 @@ body {
 h1 {
 	font-family: 'Bungee Spice', cursive;
 font-family: 'Roboto', sans-serif;
+color: white;
 
 	text-align: center;
 }
 
 p {
 	text-align: center;
+	color: white;
 }
 
 
