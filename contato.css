@@ -1,0 +1,27 @@
+nav li {
+	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#banner {
+	width: 100%;
+} 
+body {
+	background: #031414;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: 'Bungee Spice', cursive;
+font-family: 'Roboto', sans-serif;
+color: white;
+
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	color: white;
+}
