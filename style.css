@@ -2,11 +2,23 @@ nav li {
 	display: inline;
 	text-decoration: none;
 	text-transform: uppercase;
+	nargn:o, 25px, 0, 25px;
+	padding:5%;
 }
 
+nav a {
+	font-size:35px;
+	color: darkorchid;
+	text-decoration: none;
+	font-weight: lighter;
+}
+
+nav{
+	width:940px;
+}
 #banner {
 	width: 100%;
-} 
+} Iniciar mais devagar
 body {
 	background: #031414;
 	margin: 0;
